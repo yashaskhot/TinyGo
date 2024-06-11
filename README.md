@@ -7,3 +7,5 @@
 $ docker-compose up -d
 ```
 After the server is Up and Running, you can test the project using Postman.
+
+Tools/Technologies Used:- GoLang, GoFiber, Redis, Docker, Postman
