@@ -1,5 +1,5 @@
 # TinyGo
- A Url Shortener built with Golang using GoFiber framework.
+ A Url Shortener built with Golang using GoFiber framework and Redis DB.
 
  Docker Command to get the Server running at Port 3000
 
